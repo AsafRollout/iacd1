@@ -3,4 +3,4 @@
 type: experiment
 name: go flag
 flag: def.goFlag
-value: true
+value: false
