@@ -4,7 +4,8 @@ type: experiment
 name: var
 flag: wurl.var
 availableValues:
-  - red
   - green
   - blue
+  - red
+  - yellow
 value: green
