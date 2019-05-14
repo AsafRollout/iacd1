@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5cdabbaf4bc2fd5c684f9ca8
+type: experiment
+name: new variant
+flag: def.newVariant
+availableValues:
+  - C
+  - B
+  - A
+value: []
