@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5cdab750786e075c4548b444
+type: experiment
+name: var
+flag: wurl.var
+availableValues:
+  - red
+  - green
+  - blue
+value: []
