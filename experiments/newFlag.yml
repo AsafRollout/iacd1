@@ -6,6 +6,7 @@ flag: newFlag
 platforms:
   - name: iOS
     conditions:
+      - {}
       - group:
           name: aaaa
         value:
