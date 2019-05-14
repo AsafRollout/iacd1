@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5cdae5144bc2fd5c684fa6d8
+type: experiment
+name: go flag
+flag: def.goFlag
+value: false
