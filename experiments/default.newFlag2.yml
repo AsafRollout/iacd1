@@ -3,4 +3,4 @@
 type: experiment
 name: new flag 2
 flag: default.newFlag2
-value: false
+value: true
