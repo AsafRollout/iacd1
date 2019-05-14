@@ -3,4 +3,4 @@
 type: experiment
 name: sls
 flag: wurl.sls
-value: false
+value: true
