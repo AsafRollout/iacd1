@@ -3,4 +3,9 @@
 type: experiment
 name: fl
 flag: wurl.fl
+conditions:
+  - property:
+      name: admin
+      operator: is-true
+    value: true
 value: false
