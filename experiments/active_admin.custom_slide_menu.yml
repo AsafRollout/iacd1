@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5d0c1cfb26bcb62ce3db67b2
+type: experiment
+name: custom slide menu
+flag: active_admin.custom_slide_menu
+value: false
