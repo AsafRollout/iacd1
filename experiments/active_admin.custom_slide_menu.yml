@@ -3,4 +3,4 @@
 type: experiment
 name: custom slide menu
 flag: active_admin.custom_slide_menu
-value: true
+value: false
