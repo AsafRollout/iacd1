@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5d0f87d3d3f8151d0ce1e16f
+type: experiment
+name: one more flag 22
+flag: oneMoreFlag22
+value: false
