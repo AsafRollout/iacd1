@@ -1,0 +1,9 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5db08510fc53991b2d910fc8
+type: experiment
+name: variant
+flag: ns.variant
+availableValues:
+  - vat1
+  - var2
+value: var2
