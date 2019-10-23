@@ -6,4 +6,4 @@ flag: variant2
 availableValues:
   - var2
   - var1
-value: []
+value: var2
