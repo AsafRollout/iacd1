@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5df1102840ea0f4874471b99
+type: experiment
+name: disable button
+flag: disableButton
+value: false
